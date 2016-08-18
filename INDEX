@@ -8,11 +8,12 @@
     <link rel="shortcut icon" href="assets/ico/favicon.png">
 
     <title>Addon // Asylum</title>
-	<link rel="stylesheet" href="style.css">
-    <!-- Bootstrap core CSS -->
-    <link href="assets/css/bootstrap.css" rel="stylesheet">
 
-    <!-- Custom styles for this template -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+	<link rel="stylesheet" href="assets/css/styles.css">
+	
+
+   
     <link href="assets/css/main.css" rel="stylesheet">
 	<link rel="stylesheet" href="assets/css/font-awesome.min.css">
 
@@ -32,29 +33,26 @@
   </head>
 
   <body data-spy="scroll" data-offset="0" data-target="#theMenu">
-	<video autoplay="" loop="" id="fuckmylife">
-		<source src="videyxyz.mp4" type="video/mp4">
+  <video autoplay="" loop="" id="fuckmylife">
+		<source src="assets/img/video.mp4" type="video/mp4">
 			hahahaha your browser cant even handle video
 	</video>
 
-	<!-- Menu -->
 	<nav class="menu" id="theMenu">
 		<div class="menu-wrap">
 			<h1 class="logo"><a href="index.html#home">ADDON.</a></h1>
 			<i class="icon-remove menu-close"></i>
-			<a href="#home" class="smoothScroll">Home</a>
-			<a href="#elysium" class="smoothScroll">Elysium</a>
-			<a href="#youtube" class="smoothScroll">My Youtube</a>
-			<a href="#contact" class="smoothScroll">My Steam</a>
-			<a href="#squad" class="smoothScroll">The Squad</a>
+			<h1><a href="http://www.addonahk.xyz/" target="_blank">Home</a>
+			<h1><a href="http://www.gaming-asylum.com/forums/index.php?/topic/23622-elysium-s1-na-open-eu-open/" target="_blank">Elysium</a>
+			<h1><a href="https://www.youtube.com/channel/UCC2t7o0C2lDiBf0_eyPmh6Q" target="_blank">Youtube</a>
+			<h1><a href="https://steamcommunity.com/groups/richboyxd" target="_blank">The Squad</a>
 		</div>
-		
-		<!-- Menu button -->
+
 		<div id="menuToggle"><i class="icon-reorder"></i></div>
 	</nav>
+<div class="fullscreen-bg">
+</div>
 
-	
-	<!-- ========== HEADER SECTION ========== -->
 	<section id="home" name="home"></section>
 	<div id="headerwrap">
 		<div class="container">
@@ -63,20 +61,18 @@
 			</div>
 			<br>
 			<div class="row">
-				<h1>ADDON</h1>
+				<h1></h1>
 				<br>
-				<h3>steamcommunity.com/id/addongamer</h3>
+				<h3></h3>
 				<br>
 				<br>
 				<div class="col-lg-6 col-lg-offset-3">
 				</div>
 			</div>
-		</div><!-- /container -->
-	</div><!-- /headerwrap -->
-
+		</div>
+	</div>
 	
 	
-	<!-- ========== ABOUT SECTION ========== -->
 	<section id="about" name="about"></section>
 	<div id="f">
 		<div class="container">
@@ -84,7 +80,7 @@
 				<h3></h3>
 				<p class="centered"><i class="icon icon-circle"></i><i class="icon icon-circle"></i><i class="icon icon-circle"></i></p>
 				
-				<!-- INTRO INFORMATIO-->
+				
 				<div class="col-lg-6 col-lg-offset-3">
 					<p>$$$ rich a$f $$$</p>
 				</div>								
@@ -92,11 +88,6 @@
 		</div><!-- /container -->
 	</div><!-- /f -->
 
-	
-
-    <!-- Bootstrap core JavaScript
-    ================================================== -->
-    <!-- Placed at the end of the document so the pages load faster -->
 	<script src="assets/js/classie.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
     <script src="assets/js/smoothscroll.js"></script>
